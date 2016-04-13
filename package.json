@@ -1,6 +1,6 @@
 {
   "name": "react-native-barcode-scanner",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Barcode scanner for react-native, depends on react-native-camera and react-native-barcodescanner, provide a universal interface.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   "homepage": "https://github.com/applean/react-native-barcode-scanner#readme",
   "dependencies": {
     "react-native-barcodescanner": "^1.0.1",
-    "react-native-camera": "git+ssh://git@github.com:applean/react-native-camera.git"
+    "react-native-camera": "^0.3.8"
   }
 }
