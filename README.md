@@ -12,7 +12,8 @@ Just combine `react-native-barcodescanner` and `react-native-camera`.
 
 ```
 which rnpm || npm install -g rnpm
-rnpm link
+rnpm link react-native-camera
+rnpm link react-native-barcodescanner
 ```
 
 **Also can link manually**
