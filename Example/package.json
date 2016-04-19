@@ -8,6 +8,6 @@
   "dependencies": {
     "react": "^0.14.8",
     "react-native": "^0.24.0",
-    "react-native-barcode-scanner-universal": "file:///Volumes/Data/source/applean/react-native-barcode-scanner-universal"
+    "react-native-barcode-scanner-universal": "../"
   }
 }
