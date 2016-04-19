@@ -1,6 +1,6 @@
 {
   "name": "react-native-barcode-scanner-universal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Barcode scanner for react-native, depends on react-native-camera and react-native-barcodescanner, provide a universal interface.",
   "main": "index.js",
   "scripts": {
