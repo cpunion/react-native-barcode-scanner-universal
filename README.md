@@ -4,7 +4,22 @@ Just combine `react-native-barcodescanner` and `react-native-camera`.
 
 ## Install
 
+**Install library**
+
 `npm install --save react-native-barcode-scanner-universal`
+
+**Link native libraries of `react-native-barcodescanner` and `react-native-camera`**
+
+```
+which rnpm || npm install -g rnpm
+rnpm link
+```
+
+**Also can link manually**
+
+See:
+* https://github.com/lwansbrough/react-native-camera#manual-install
+* https://github.com/ideacreation/react-native-barcodescanner#installation
 
 ## Usage
 
