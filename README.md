@@ -36,11 +36,13 @@ render: function () {
     )
   }
 
-  <BarcodeScanner
-    onBarCodeRead={(code) => console.log(code)}
-    style={styles.camera}>
-    {scanArea}
-  </BarcodeScanner>
+  return (
+    <BarcodeScanner
+      onBarCodeRead={(code) => console.log(code)}
+      style={styles.camera}>
+      {scanArea}
+    </BarcodeScanner>
+  )
 }
 
 const styles = StyleSheet.create({
