@@ -15,14 +15,14 @@
     "scanner",
     "qrcode"
   ],
-  "author": "Li Jie <lijie@applean.cn>",
+  "author": "Li Jie <lijie@applean.cn>, David Ackermann <ack.dav@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/applean/react-native-barcode-scanner-universal/issues"
   },
   "homepage": "https://github.com/applean/react-native-barcode-scanner-universal#readme",
   "dependencies": {
-    "react-native-barcodescanner": "cpunion/react-native-barcodescanner#patch-1",
+    "react-native-barcodescanner": "ideacreation/react-native-barcodescanner/#dc460ba8ae59b7dfb9f7e9a34c883c56b2acb863",
     "react-native-camera": "lwansbrough/react-native-camera#bff819c574eb60a1ffdb664aa2b03d9d15c57c28"
   }
 }
