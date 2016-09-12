@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/applean/react-native-barcode-scanner-universal#readme",
   "dependencies": {
-    "react-native-barcodescanner": "ideacreation/react-native-barcodescanner/#dc460ba8ae59b7dfb9f7e9a34c883c56b2acb863",
-    "react-native-camera": "lwansbrough/react-native-camera#bff819c574eb60a1ffdb664aa2b03d9d15c57c28"
+    "react-native-barcodescanner": "ideacreation/react-native-barcodescanner#dc460ba8ae59b7dfb9f7e9a34c883c56b2acb863",
+    "react-native-camera": "lwansbrough/react-native-camera#14836aef5826d7c153ea1c232481cba5b881b932"
   }
 }
