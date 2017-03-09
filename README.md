@@ -1,3 +1,5 @@
+# [DEPRECATED] Please use react-native-camera
+
 # react-native-barcode-scanner-universal
 
 Just combine `react-native-barcodescanner` and `react-native-camera`, because `react-native-barcodescanner` provides Android version, `react-native-camera` provides iOS version.
